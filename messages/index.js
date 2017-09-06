@@ -39,7 +39,7 @@ bot.dialog('/', [
     function (session)
     {
         //builder.Prompts.text(session, "ברוך הבא לראשות מקרקעי ישראל");
-        session.send("ברוך הבא לראשות מקרקעי ישראל");               
+        session.send("ברוך הבא לרשות מקרקעי ישראל");               
         session.send("...אנא המתן לנציג");               
         
         //builder.Prompts.text(session, "ברוך הבא לראשות מקרקעי ישראל");
